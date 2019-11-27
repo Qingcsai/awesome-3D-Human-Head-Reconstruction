@@ -4,7 +4,7 @@
 
 * FCN: [Fully convolutional networks for semantic segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html)
 * fully-connected CRF: [Efficient inference in fully connected crfs with gaussian edge potentials](http://papers.nips.cc/paper/4296-efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials.pdf)
-* FCN + fully-connected + CRF: [Semantic image segmentation with deep convolutional nets and fully connected crfs](https://arxiv.org/abs/1412.7062)
+* FCN + fully-connected CRF: [Semantic image segmentation with deep convolutional nets and fully connected crfs](https://arxiv.org/abs/1412.7062)
 
 ## Paper List
 
