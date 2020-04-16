@@ -1,5 +1,5 @@
-# 3D 人头重建资料整理
+# 3D human head reconstruction
 
-## 目录
-* [头发分割](https://github.com/Qingcsai/3D-Human-Head-Reconstruction-Zoo/blob/master/hair-segmentation.md)
-* 头发重建：代码太少了
+## Catalog
+* [Hair segmentation](https://github.com/Qingcsai/3D-Human-Head-Reconstruction-Zoo/blob/master/hair-segmentation.md)
+* Hair reconstruction
