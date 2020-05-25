@@ -8,7 +8,7 @@
 ## 1. Hair Segmentation
 
 Year|Paper| Comment
-:---:|:---:|:---
+:---:|:---:|:---:
 2016 TOG|[AutoHair: Fully Automatic Hair Modeling from A Single Image](http://eprints.whiterose.ac.uk/134268/)|FCN + CRF
 2016|[Hair Segmentation Using Heuristically-Trained Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7592406)|...
 2017|[Hair segmentation using adaptive threshold from edge and branch length measures](https://www.sciencedirect.com/science/article/pii/S0010482517302792)|...
@@ -24,7 +24,7 @@ Year|Paper| Comment
 ## 3. Full human head reconstruction
 
 Year|Paper|Descriptor
-:---:|:---:|:---
+:---:|:---:|:---:
 2019 Computers & Graphics | [Data-driven 3D human head reconstruction](https://www.sciencedirect.com/science/article/abs/pii/S0097849319300317)| ...
 2020 CVPR |[Deep 3D Portrait from a Single Image](https://arxiv.org/abs/2004.11598)|...
 
