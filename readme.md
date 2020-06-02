@@ -3,7 +3,7 @@
 ## Catalogue
 * 1. [Hair segmentation](https://github.com/Qingcsai/awesome-3D-Human-Head-Reconstruction/blob/master/readme.md#1-hair-segmentation)
 * 2. Hair reconstruction
-* 3. [Full human head reconstruction](https://github.com/Qingcsai/awesome-3D-Human-Head-Reconstruction/blob/master/readme.md#3-full-human-head-reconstruction)
+* 3. [Full human head reconstruction](https://github.com/Qingcsai/awesome-3D-Human-Head-Reconstruction#3-full-human-head-reconstruction)
 
 ## 1. Hair Segmentation
 
